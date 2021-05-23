@@ -1,0 +1,17 @@
+.posterImg {
+    cursor: pointer;
+}
+
+.text {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.filmsMore  {
+    margin: 15px;
+    padding: 15px;
+}
+
+.loaderOf  {
+    display: none;
+}

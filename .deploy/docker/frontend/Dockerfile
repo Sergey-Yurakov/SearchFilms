@@ -1,0 +1,5 @@
+FROM nginx:1.17.8
+
+WORKDIR /app
+
+EXPOSE 80
